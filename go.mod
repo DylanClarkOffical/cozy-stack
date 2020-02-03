@@ -3,7 +3,7 @@ module github.com/cozy/cozy-stack
 go 1.12
 
 require (
-	github.com/Masterminds/semver v1.5.0
+	github.com/Masterminds/semver/v3/v3 v3.0.3
 	github.com/appleboy/go-fcm v0.1.5
 	github.com/bradfitz/latlong v0.0.0-20170410180902-f3db6d0dff40
 	github.com/cozy/goexif2 v0.0.0-20190919162732-41879c76f051
